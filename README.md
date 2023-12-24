@@ -5,41 +5,17 @@ This simple web application generates random codes using either alphabet charact
 
 ## Getting Started
 
-To use this code generator, simply include the HTML structure provided in your project. The generator is designed to create codes dynamically using either alphabet characters or a combination of letters and numbers.
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js" defer></script>
-    <title>Random Code Generator</title>
-</head>
-<body>
-
-</body>
-</html>
-```
+To use this code generator, simply inspect the page and use the console. The generator is designed to create codes dynamically using either alphabet characters or a combination of letters and numbers.
 
 ## Usage
 
-The application provides two main functions for generating codes:
+The application provides the same result using two different methods:
 
 1. **Alphabetic Code Generation:**
    - Function: `generateCode(num, value)`
-   - Parameters:
-     - `num`: Number of characters in the generated code (default is 6).
-     - `value`: Determines whether the code contains only letters (`true`) or both letters and numbers (`false`, default).
 
 2. **UTF-16 Character Code Generation:**
    - Function: `generateCode2(num, value)`
-   - Parameters:
-     - `num`: Number of characters in the generated code (default is 6).
-     - `value`: Determines whether the code contains only letters (`true`) or a mix of letters and numbers (`false`, default).
-
-## Code Examples
 
 ### Example 1: Alphabetic Code Generation
 
