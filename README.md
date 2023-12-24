@@ -1,4 +1,4 @@
-# Random Code Generator
+# [Random Code Generator](https://o2thur.github.io/codeGenerator/)
 
 This simple web application generates random codes using either alphabet characters or a combination of letters and numbers. The generated codes can be used for various purposes, such as password generation or unique identifiers.
 
